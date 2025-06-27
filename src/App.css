@@ -1,0 +1,17 @@
+body {
+  /* font-family: Arial, sans-serif; */
+  background: #9edfff;
+  background: linear-gradient(
+    159deg,
+    rgba(158, 223, 255, 1) 0%,
+    rgba(201, 238, 255, 1) 31%,
+    rgba(109, 220, 247, 1) 55%,
+    rgba(142, 214, 250, 1) 100%
+  );
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
